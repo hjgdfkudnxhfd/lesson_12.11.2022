@@ -10,6 +10,7 @@ namespace lesson_12._11._2022
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("111");
         }
     }
 }
